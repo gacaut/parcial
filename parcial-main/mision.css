@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color: #505F64;
+}
+.Renew{
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+}
+#renewgen{
+    width: 60%;
+}
+.content{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 60%;
+    background-color: #742D2D;
+    border-radius: 1em;
+    padding: 10px;
+}
+p{
+    font-size: 3em;
+}
+.pag {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 5em;
+    margin-right: 10%;
+    font-weight: bold;
+  }

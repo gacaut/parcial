@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+body{
+    background: rgb(103, 216, 252, 0.7);
+}
+.Renew{
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin-bottom: 70px;
+    font-size: 2.5em;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    width: 35%;
+    height: 92.4vh;
+    background: #fff;
+}
+.map{
+    padding: 1%;
+    position: fixed;
+    height: 87vh;
+    left: 52%;
+    
+}
+#mapa{
+    width: 35%;
+    object-fit: contain;
+}

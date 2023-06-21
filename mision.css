@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    background-color: #505F64;
+}
+
+nav {
+    display: grid;
+    align-items: center;
+    height: 100px;
+    background: linear-gradient(rgba(89, 211, 250, 0.7),rgba(255, 255, 255, 0.35));
+    width: 100%;
+}
+
+nav img {
+    position: absolute;
+    width: 40px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.botones {
+    display: flex;
+    top: 10px;
+    gap: 10px;
+    flex-direction: row;
+    padding: 0;
+}
+
+.botones li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 15%;
+    height: 70px;
+    background: #59D3FA;
+    border-radius: 8px;
+    margin-top: 5px;
+    position: relative;
+}
+
+.botones li a {
+    color: black;
+    letter-spacing: 0.1em;
+    font-size: 1.2em;
+}
+
+.botones li:last-child {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.botones li:first-child {
+    margin-left: 20%;
+}
+
+.botones li a {
+    text-decoration: none;
+}
+.Renew{
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+}
+#renewgen{
+    width: 60%;
+}
+#Logo{
+    width: 70px;
+    margin-top: 0.3%;
+}
+.content{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 60%;
+    background-color: #742D2D;
+    border-radius: 1em;
+    padding: 10px;
+}
+p{
+    font-size: 3em;
+}
+.pag {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 5em;
+    margin-right: 10%;
+    font-weight: bold;
+  }
+  

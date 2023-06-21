@@ -8,7 +8,7 @@ body{
 .producto{
     width: 35%;
      height: 100%;
-    background: #5c5959;
+    background: #8b8888;
 }
 .imagen{
     position:fixed;
@@ -16,7 +16,6 @@ body{
     top: 25%;
     width: 21%;
     height: 40%;
-    background: #fff;
     border-radius: 50%;
 }
 .texto{
@@ -24,19 +23,19 @@ body{
     left: 13%;
     top: 70%;
     padding: 1%;
-    background: #fff;
+    background: #64646473;
     border-radius: 10px;
     font-size: 3em;
     z-index: 1;
+    margin-top:65px;
 }
 .info{
-    background: #fff;
+    background-color: transparent;
     font-size: 2em;
     position: fixed;
     top: 50%;
     left: 50%;
     z-index: 2;
-    justify-content: center;
 }
 nav {
     display: grid;

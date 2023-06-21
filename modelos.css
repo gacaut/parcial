@@ -14,7 +14,7 @@ h1{
     font-size: 4em;
 }
 .deco{
-    background: #5c5959;
+    background: #8b8888;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -33,7 +33,7 @@ h1{
 .imagenes li{
     width: 15%;
     height: 48%;
-    background: #fff;
+    list-style: none;
     border-radius: 50%;
 }
 .deco ul{
@@ -53,7 +53,7 @@ h1{
     font-size: 2em;
     width: 10%;
     height: 30%;
-    background: #fff;
+    background: #747474;
 }
 nav {
     display: grid;

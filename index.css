@@ -9,7 +9,7 @@ body {
     grid-template-rows: auto 1fr auto;
     min-height: 100vh;
     width: auto;
-    background-image: url(aero.webp);
+    background-image: url(IMG/aero.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 60% start;

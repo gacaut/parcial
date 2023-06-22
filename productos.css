@@ -66,7 +66,7 @@ nav img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #505F64;
+    background: #9b9b9b;
     width: 35%;
     height: 92.4vh;
     writing-mode: vertical-rl;
@@ -87,7 +87,6 @@ nav img {
     position:fixed;
     width: 20%;
     height: 40%;
-    background: #fff;
     border-radius: 50%;
 }
 .texto{
@@ -95,7 +94,7 @@ nav img {
     left: 45%;
     top: 30%;
     position:fixed;
-    background: #fff;
+    background: #9b9b9b;
     border-radius: 10px;
     font-size: 4em;
 }
@@ -105,7 +104,6 @@ nav img {
     position:fixed;
     width: 20%;
     height: 40%;
-    background: #fff;
     border-radius: 50%;
 }
 .texto2{
@@ -113,7 +111,7 @@ nav img {
     left: 70%;
     top: 74%;
     position:fixed;
-    background: #fff;
+    background: #9b9b9b;
     border-radius: 10px;
     font-size: 4em;
 }

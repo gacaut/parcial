@@ -5,7 +5,6 @@ nav {
     background: linear-gradient(rgba(89, 211, 250, 0.7),rgba(255, 255, 255, 0.35));
     width: 100%;
 }
-
 nav img {
     position: absolute;
     width: 40px;
@@ -13,7 +12,6 @@ nav img {
     margin-top: 20px;
     margin-left: 50px;
 }
-
 .botones {
     display: flex;
     top: 10px;
@@ -21,7 +19,6 @@ nav img {
     flex-direction: row;
     padding: 0;
 }
-
 .botones li {
     display: flex;
     justify-content: center;
@@ -34,26 +31,42 @@ nav img {
     margin-top: 5px;
     position: relative;
 }
-
 .botones li a {
     color: black;
     letter-spacing: 0.1em;
     font-size: 1.2em;
+    text-decoration: none;
 }
-
 .botones li:last-child {
     margin-left: auto;
     margin-right: 10px;
 }
-
 .botones li:first-child {
     margin-left: 20%;
-}
-
-.botones li a {
-    text-decoration: none;
 }
 #Logo{
     width: 70px;
     margin-top: 0.3%;
+}
+@media screen and (max-width: 767px) {
+    nav {
+        height: 80px;
+    }
+    nav img {
+        width: 30px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .botones li {
+        height: 50px;
+        width: 25%;
+        height: 40px;
+    }
+    .botones li a {
+        font-size: 0.9em;
+    }
+    #Logo {
+        width: 50px;
+        margin-top: 0.3%;
+    }
 }

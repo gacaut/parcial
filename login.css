@@ -41,9 +41,14 @@ nav img {
     color: black;
     letter-spacing: 0.1em;
     font-size: 1.2em;
+    text-decoration: none;
 }
 .botones li:first-child {
     margin-left: 20%;
+}
+#Logo{
+    width: 70px;
+    margin-top: 0.3%;
 }
 .log{
     background: #5c5959;

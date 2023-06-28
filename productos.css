@@ -77,15 +77,23 @@ body{
     }
     .texto{
         height: auto;
+        left: 50%;
     }
     .texto a{
         font-size: 0.5em;
     }
     .texto2{
         height: auto;
+        left: 50%;
     }
     .texto2 a{
         font-size: 0.5em;
+    }
+    .cosas{
+        left: 50%;
+    }
+    .cosas2{
+        left: 50%;
     }
     #aero{
         width: 200px;

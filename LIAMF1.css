@@ -15,6 +15,10 @@ body{
     align-items: center;
     font-size: 2em;
 }
+.volver a{
+    text-decoration: none;
+    color: black;
+}
 .deco{
     position: absolute;
     background: #8c8c8c;

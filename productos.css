@@ -78,6 +78,7 @@ body{
     .texto{
         height: auto;
         left: 50%;
+        top: 35%;
     }
     .texto a{
         font-size: 0.5em;
@@ -85,6 +86,7 @@ body{
     .texto2{
         height: auto;
         left: 50%;
+        top: 80%;
     }
     .texto2 a{
         font-size: 0.5em;

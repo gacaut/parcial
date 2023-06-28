@@ -23,10 +23,6 @@ body{
     height: 35%;
     bottom: 0;
 }
-.deco li a{
-    text-decoration: none;
-    color: black;
-}
 .info{
     width: 40%;
     height: 62%;

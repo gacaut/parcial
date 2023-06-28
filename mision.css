@@ -39,6 +39,7 @@ p{
     }
     .mision {
         padding: 20px;
+        min-width: 80%;
     }
     p {
         font-size: 1.5em;

@@ -22,6 +22,9 @@ body{
     width: 100%;
     height: 35%;
     bottom: 0;
+.deco li a{
+    text-decoration: none;
+    color: black;
 }
 .info{
     width: 40%;

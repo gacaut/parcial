@@ -55,3 +55,7 @@ h1{
     height: 30%;
     background: #747474;
 }
+.deco ul li a{
+    text-decoration: none;
+    color: black;
+}

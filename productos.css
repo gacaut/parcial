@@ -87,4 +87,12 @@ body{
     .texto2 a{
         font-size: 0.5em;
     }
+    #aero{
+        width: 200px;
+        height: 200px;
+    }
+    #panel{
+        width: 200px;
+        height: 200px;
+    }
 }

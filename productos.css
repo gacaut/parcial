@@ -40,7 +40,10 @@ body{
     background: #9b9b9b;
     border-radius: 10px;
     font-size: 4em;
+}
+.texto a{
     text-decoration: none;
+    color: black;
 }
 .cosas2{
     left: 77%;
@@ -58,5 +61,8 @@ body{
     background: #9b9b9b;
     border-radius: 10px;
     font-size: 4em;
+}
+.texto2 a{
     text-decoration: none;
+    color: black;
 }

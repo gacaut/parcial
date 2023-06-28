@@ -32,7 +32,8 @@ p{
     margin-right: 10%;
     font-weight: bold;
   }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 970px) {
+   
     .content {
         padding: 20px;
     }
@@ -44,5 +45,10 @@ p{
     }
     .pag {
         font-size: 3em;
+    }
+}
+@media screen and (max-width: 360px) {
+    .mision{
+        margin-top: 200px;
     }
 }
